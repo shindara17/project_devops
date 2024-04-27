@@ -1,9 +1,9 @@
 <html>
   <head>
-    <title>This is a my Ohio New java Musical project this year </title>
+    <title>This is a my Excluisive New java Musical project this year </title>
   </head>
-  <body bgcolor="#00FF00">
-    <h1>Hello from RealCloud & Cloud Convo DevOps Expert Consults </h1>
+  <body bgcolor="#cfd4cf">
+    <h1>Hello from Cloud covno Trainee & Shindara consults</h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
             <p>Let us learn something about your web music lifestyle. </p> <!--This control is for mutplie line comment-->
