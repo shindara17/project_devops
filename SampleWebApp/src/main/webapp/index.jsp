@@ -3,7 +3,7 @@
     <title>This is a my Excluisive New java Musical project this year </title>
   </head>
   <body bgcolor="#cfd4cf">
-    <h1>Hello from Cloud covno Trainee & Shindara consults</h1>
+    <h1>Hello from Shindarah</h1>
     <!--Form declaration. Must have an action attribute -->
         <form action="C:/JonnyJava/FirstJava.html/profile.html" method="post">
             <p>Let us learn something about your web music lifestyle. </p> <!--This control is for mutplie line comment-->
